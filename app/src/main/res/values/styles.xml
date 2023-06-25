@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="tictac_btn_custom">
+        <item name="android:textSize">40dp</item>
+        <item name="android:background">@drawable/bg_btn</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:layout_margin">1dp</item>
+        <item name="android:text">""</item>
+        <item name="android:layout_height">80dp</item>
+        <item name="android:layout_width">80dp</item>
+    </style>
+</resources>
